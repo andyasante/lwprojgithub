@@ -1,3 +1,4 @@
-date
-cal
+$(date)
+$(cal)
 echo how ru
+bye...
